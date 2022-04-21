@@ -74,5 +74,6 @@ docker build -t mansimishra/firstreact-app .
 ```
 docker run -d -p 80:80 mansimishra/firstreact-app
 ```
-## step 7. Access the app
-![image](https://user-images.githubusercontent.com/81081105/164446047-2418fd10-3303-42a9-b12f-130d10de8fa9.png)
+## Step 7. Access the app
+
+<img src= "https://user-images.githubusercontent.com/81081105/164446047-2418fd10-3303-42a9-b12f-130d10de8fa9.png" height = "300" width="300"/>
